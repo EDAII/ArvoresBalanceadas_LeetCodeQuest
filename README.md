@@ -34,7 +34,7 @@ Segue abaixo Screenshots demonstrando que as soluções para os respectivos prob
 
 Questão 315 - Count of Smaller Numbers After Self
 
-![Questão 315 - Count of Smaller Numbers After Self - Count of Smaller Numbers After Self]()
+![Questão 315 - Count of Smaller Numbers After Self - Count of Smaller Numbers After Self](ArvoreBalancea/Questa_315/LC315.png)
 
 ## Instalação
 
