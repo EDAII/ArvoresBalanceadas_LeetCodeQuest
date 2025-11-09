@@ -22,7 +22,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
-|      |  |     |
+|  315    | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |  Difícil   |
 |     |            |   |
 |      |        |      |
 
@@ -31,6 +31,10 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 ## Screenshots
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
+
+Questão 315 - Count of Smaller Numbers After Self
+
+![Questão 315 - Count of Smaller Numbers After Self - Count of Smaller Numbers After Self]()
 
 ## Instalação
 
