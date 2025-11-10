@@ -18,12 +18,12 @@ Para este trabalho de Arvores Balanceadas, opitamos por utilizar um juiz eletrô
 
 ### Exercícios escolhidos
 
-Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns exercícios sobre os conteúdos acerca de Arvores Balanceadas. Foram definidas 3 questões a serem resolvidas, sendo três delas de nível difícil. Abaixo podemos identificar as questões que foram resolvidas dentro do juiz eletrônico LeetCode:
+Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns exercícios sobre os conteúdos acerca de Arvores Balanceadas. Foram definidas 3 questões a serem resolvidas, sendo três delas de nível difícil. Cada uma delas foi resolvida a partir de um código utilizando alguma das árvore balanceadas (AVL ou Árvore Rubro-Negra). Abaixo podemos identificar as questões que foram resolvidas dentro do juiz eletrônico LeetCode:
 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
-|  315    | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |  Difícil   |
-|     |            |   |
+|  315    | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) (Com AVL) |  Difícil   |
+| 295    |  [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) (Com Árvore Rubro-Negra)       | Difícil  |
 |      |        |      |
 
 ### Link para o vídeo de apresentação
@@ -32,9 +32,13 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 ## Screenshots
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
 
-Questão 315 - Count of Smaller Numbers After Self
+Questão 315 - Count of Smaller Numbers After Self (Com AVL)
 
 ![Questão 315 - Count of Smaller Numbers After Self - Count of Smaller Numbers After Self](ArvoreBalancea/Questa_315/LC315.png)
+
+Questão 295 - Find Median from Data Stream (Com Árvore Rubro-Negra)
+
+![Questão 295 - Find Median from Data Stream](ArvoreBalancea/Questao_295/LC295.png)
 
 ## Instalação
 
