@@ -24,7 +24,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
 |  315    | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) (Com AVL) |  Difícil   |
 | 295    |  [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) (Com Árvore Rubro-Negra)       | Difícil  |
-|      |        |      |
+|  352    |  [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)(Com Árvore Rubro-Negra)      |  Difícil    |
 
 ### Link para o vídeo de apresentação
 
@@ -39,6 +39,10 @@ Questão 315 - Count of Smaller Numbers After Self (Com AVL)
 Questão 295 - Find Median from Data Stream (Com Árvore Rubro-Negra)
 
 ![Questão 295 - Find Median from Data Stream](ArvoreBalancea/Questao_295/LC295.png)
+
+Questão 352 - Data Stream as Disjoint Intervals (Com Árvore Rubro-Negra)
+
+![Questão 352 - Data Stream as Disjoint Intervals](ArvoreBalancea/Questao_352/LC352.png)
 
 ## Instalação
 
