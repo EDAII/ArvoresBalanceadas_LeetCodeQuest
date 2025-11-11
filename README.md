@@ -28,6 +28,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 ### Link para o vídeo de apresentação
 
+https://drive.google.com/file/d/1_jI9mvtWMw3rTnMXQC-lbcTwMjNpIUUl/view?usp=sharing
 
 ## Screenshots
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
